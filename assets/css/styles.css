@@ -85,7 +85,7 @@ img{
 .section-title{
     position: relative;
     font-size: var(--h2-font-size);
-    color: var(--dark-color);
+    color: var(--white-color);
     margin: var(--mb-4) 0;
     text-align: center;
 }
@@ -307,7 +307,7 @@ img{
     bottom: 0;
 }
 .portfolio__link-name{
-    color: var(--dark-color);
+    color: var(--white-color);
 }
 
 /* ===== CONTACT =====*/
@@ -351,7 +351,7 @@ img{
 
 /* ===== FOOTER=====*/
 .footer{
-    background-color: var(--dark-color);
+    background-color: var(--white-color);
 }
 .footer__container{
     row-gap: 2rem;
